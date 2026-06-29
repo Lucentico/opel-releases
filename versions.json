@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "changelog": "Initial release",
+  "installer_url": "https://github.com/Lucentico/opel-releases/releases/download/v1.0.0/OpelSetup.exe",
+  "sha256": "paste-hash-here"
+}
