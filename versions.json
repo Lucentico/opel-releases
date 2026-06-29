@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
   "changelog": "Spotlight",
-  "installer_url": "https://github.com/Lucentico/opel-releases/releases/tag/v1.0.1",
+  "installer_url": "https://github.com/Lucentico/opel-releases/releases/download/v1.0.1/opel_1.0.1_x64-setup.exe",
   "sha256": "f4d39753332821631c5ac0b03d9ac8c5915400c807bdb060b48e001a7ea7be20"
 }
