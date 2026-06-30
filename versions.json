@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "changelog": "spotlight",
-  "installer_url": "https://github.com/Lucentico/opel-releases/releases/download/v1.0.1/opel_1.0.1_x64-setup.exe",
-  "sha256": "c671d1ebd8ace175d858e02067af55061750e66047d77268ee6bf7627043d70d"
+  "version": "1.0.0",
+  "changelog": "Updates just got real",
+  "installer_url": "https://github.com/Lucentico/opel-releases/releases/download/v1.0.0/opel_1.0.0_x64-setup.exe",
+  "sha256": "b23197081aa962d4336a090eb17136cc899ad13e668e0a93833020529a412bf9"
 }
