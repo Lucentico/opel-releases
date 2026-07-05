@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "changelog": "Spotlight - now add sp otg - do command - do 20sp, do 50sp",
-  "installer_url": "https://github.com/Lucentico/opel-releases/releases/download/v1.0.2/opel_1.0.2_x64-setup.exe",
-  "sha256": "ee6ecabfb84331d1253af8e4e125e6aa56c808360d3a424fabfbb434a2961813"
+  "version": "1.0.3",
+  "changelog": "Spotlight - do command bug fixes and shortcuts",
+  "installer_url": "https://github.com/Lucentico/opel-releases/releases/download/v1.0.3/opel_1.0.3_x64-setup.exe",
+  "sha256": "4425d810a167e9ae563af2789ff9b2ffca909848795973a233a25dea4e133767"
 }
