@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "changelog": "Spotlight - do command bug fixes and shortcuts",
-  "installer_url": "https://github.com/Lucentico/opel-releases/releases/download/v1.0.3/opel_1.0.3_x64-setup.exe",
-  "sha256": "4425d810a167e9ae563af2789ff9b2ffca909848795973a233a25dea4e133767"
+  "version": "1.0.4",
+  "changelog": "Bills now have Customer id and date fixed",
+  "installer_url": "https://github.com/Lucentico/opel-releases/releases/download/v1.0.4/opel_1.0.4_x64-setup.exe",
+  "sha256": "b899e477e94b49276dcf6dea504b02d7c05d3fa84a661cfe814c033325587c6b"
 }
