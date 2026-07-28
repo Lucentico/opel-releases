@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "changelog": "Bills now have Customer id and date fixed",
-  "installer_url": "https://github.com/Lucentico/opel-releases/releases/download/v1.0.4/opel_1.0.4_x64-setup.exe",
-  "sha256": "b899e477e94b49276dcf6dea504b02d7c05d3fa84a661cfe814c033325587c6b"
+  "version": "1.0.5",
+  "changelog": "Whatsapp Bills - Can now send Bills to Customers using whatsapp",
+  "installer_url": "https://github.com/Lucentico/opel-releases/releases/download/v1.0.5/opel_1.0.5_x64-setup.exe",
+  "sha256": "a4c7df1bf89f3b777b2f915236ac719f17aca7f32993a060e0b784501f8b4dd3"
 }
