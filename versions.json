@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "changelog": "Whatsapp Bills - Can now send Bills to Customers using whatsapp",
-  "installer_url": "https://github.com/Lucentico/opel-releases/releases/download/v1.0.5/opel_1.0.5_x64-setup.exe",
-  "sha256": "a4c7df1bf89f3b777b2f915236ac719f17aca7f32993a060e0b784501f8b4dd3"
+  "version": "1.0.6",
+  "changelog": "Bug Fixes : Send to AWPL save failure | AWPL Bridge first Handshake | Whatsapp msg format",
+  "installer_url": "https://github.com/Lucentico/opel-releases/releases/download/v1.0.6/opel_1.0.6_x64-setup.exe",
+  "sha256": "5f43e420143fee862f9aa9347709198deb1f584535bfb92b9b6249a56d6a56a0"
 }
