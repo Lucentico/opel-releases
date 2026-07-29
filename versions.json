@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "changelog": "Bug Fixes : Send to AWPL save failure | AWPL Bridge first Handshake | Whatsapp msg format",
-  "installer_url": "https://github.com/Lucentico/opel-releases/releases/download/v1.0.6/opel_1.0.6_x64-setup.exe",
-  "sha256": "5f43e420143fee862f9aa9347709198deb1f584535bfb92b9b6249a56d6a56a0"
+  "installer_url": "https://github.com/Lucentico/opel-releases/releases/download/v1.0.7/opel_1.0.7_x64-setup.exe",
+  "sha256": "48593a2eacbaa6518a1a1b4ac2d11323ae9c54d705996ff26064e4d005b50be2"
 }
